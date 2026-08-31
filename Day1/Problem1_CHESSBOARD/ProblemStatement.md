@@ -2,7 +2,7 @@
 <br>
 ![Chessboard]('https://d8it4huxumps7.cloudfront.net/uploads/courseDetails/628db68ec030d_picture_1.png')
 <br>
-### Problem Statement: *To determine whether a given chessboard square is Black or White*
+### Problem Statement: To determine whether a given chessboard square is Black or White
 
 ### Core Logic
       - Map letters to number
