@@ -1,6 +1,7 @@
 # CHESSBOARD
 
-![Chessboard]('https://pin.it/3tjMHYmro')
+<img width="736" height="736" alt="d220a8f91dd1db98fde68c5e6e39cc08" src="https://github.com/user-attachments/assets/3ec4c6b4-76cb-410c-9992-3994d51b6fa4" />
+
 
 ### Problem Statement: To determine whether a given chessboard square is Black or White
 
