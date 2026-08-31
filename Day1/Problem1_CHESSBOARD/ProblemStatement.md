@@ -1,6 +1,6 @@
 # CHESSBOARD
 
-![Chessboard]('https://media.istockphoto.com/id/1394093629/vector/chess-board-in-black-and-white-gameboard-for-leisure-or-sport-game-of-chess-vector.jpg?s=612x612&w=0&k=20&c=XhYECWO27u79m9MYwKjR3bprHCo4EDtSOwdqMe6RDWM=')
+![Chessboard]('https://www.vecteezy.com/free-vector/empty-chessboard')
 
 ### Problem Statement: To determine whether a given chessboard square is Black or White
 
