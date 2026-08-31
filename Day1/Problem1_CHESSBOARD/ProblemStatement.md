@@ -2,7 +2,7 @@
 
 https://i.pinimg.com/736x/7c/2f/32/7c2f32c666013e9d2af777a62b030f35.jpg
 
-![Chessboard]('https://i.pinimg.com/736x/7c/2f/32/7c2f32c666013e9d2af777a62b030f35.jpg')
+![Chessboard]('https://pin.it/3tjMHYmro')
 
 ### Problem Statement: To determine whether a given chessboard square is Black or White
 
