@@ -22,3 +22,6 @@ In graph theory termilogy, the youngest member is a **Universal Sink**:
 2. For each gift pair $(a_i, b_i)$:
       - Increment out_degree[a_i] by 1.
       - Increment in_degree[b_i] by 1.
+3. Iterate through all members from 1 to n:  
+      - If out_degree[i] == 0 and in_degree[i] == n -1, return i.
+4. If loop finishes without finding such a candidate, return -1.
