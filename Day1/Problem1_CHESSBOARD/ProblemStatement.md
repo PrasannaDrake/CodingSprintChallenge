@@ -1,12 +1,12 @@
 # CHESSBOARD
-<br>
+
 ![Chessboard]('https://d8it4huxumps7.cloudfront.net/uploads/courseDetails/628db68ec030d_picture_1.png')
-<br>
+
 ### Problem Statement: To determine whether a given chessboard square is Black or White
 
 ### Core Logic
       - Map letters to number
-            - 'a' to 'h' ~~---~~> 1 to 8.
+            - 'a' to 'h' --> 1 to 8.
       - Check Sum
             - Add column number and row number.
             - On standard chessboard bottom-left square a1 (1+1=2) is black.
