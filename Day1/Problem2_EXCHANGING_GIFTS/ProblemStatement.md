@@ -11,10 +11,9 @@ Given the total number of family members $n$ and a list of $m$ gift exchanges am
 
 ## Core Logic
 This problem can be modeled as ***Directed Graph*** where: 
-
       - Each family member represents a node (vertex) in the graph.
       - Each gift exchange $a_i \rightarrow b_i$ represents a directed edge from node $a_i$ to node $b_i$.
-In graph theory termilogy, the youngest member is a **Universal Sink**
+In graph theory termilogy, the youngest member is a **Universal Sink**: 
       - **Out-degree = 0**: The node has no outgoing edges (gives zero gifts.)
       - **In-degree = n-1**: The node has incoming edge from every other node (receives gifts from all other n-1 members).
 
