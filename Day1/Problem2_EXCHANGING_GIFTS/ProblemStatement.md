@@ -10,7 +10,8 @@ Given the total number of family members $n$ and a list of $m$ gift exchanges am
 > **Note:** A family member does not give more than one gift to the same member (no duplicate edges).
 
 ## Core Logic
-This problem can be modeled as ***Directed Graph*** where:
+This problem can be modeled as ***Directed Graph*** where: 
+
       - Each family member represents a node (vertex) in the graph.
       - Each gift exchange $a_i \rightarrow b_i$ represents a directed edge from node $a_i$ to node $b_i$.
 In graph theory termilogy, the youngest member is a **Universal Sink**
